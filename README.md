@@ -2,6 +2,8 @@
 
 Actually Tweet-Clone is an Application that was created using Vue 3 and the purpose is to learn more about VueJS.
 
+`This Application would be update regularly!!, so Stay tune!`
+
 ## Project setup
 
 ```
